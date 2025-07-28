@@ -2,11 +2,11 @@
 
 A modern, responsive portfolio website demonstrating **full-stack serverless development** using AWS cloud services.
 
-## 🚀 Live Demo
+## Live Demo
 - **Portfolio Website**: https://d6ilnbijb94mf.cloudfront.net
 - **Contact Form API**: Serverless backend processing form submissions
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 User Request → CloudFront (CDN) → S3 (Static Site) → API Gateway → Lambda → DynamoDB
 
